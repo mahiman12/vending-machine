@@ -1,7 +1,9 @@
-package src.models;
+package src;
 
 import src.PaymentMethod;
 import src.PaymentStatus;
+import src.models.Item;
+import src.models.Transaction;
 
 import java.util.ArrayList;
 import java.util.List;

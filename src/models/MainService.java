@@ -1,6 +1,7 @@
 package src.models;
 
 import src.PaymentMethod;
+import src.PaymentService;
 import src.VendingMachineService;
 
 import java.util.ArrayList;
